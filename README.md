@@ -76,5 +76,3 @@ Here are representative result images produced by the notebook and saved in the 
 	<br/>
 	<strong>Figure 5</strong> — Per-model metric charts
 </p>
-
-> Note: Filenames are renamed to use underscores for cleaner links. If you prefer different thumbnail sizes or captions, tell me which style you like and I will adjust.
